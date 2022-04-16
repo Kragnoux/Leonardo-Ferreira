@@ -1,0 +1,104 @@
+img {
+  border-radius: 50%;
+}
+
+body {
+  color: #40514e;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+h1 {
+  color: #66bfbf;
+  font-size: 5.625rem;
+  margin: 3.125rem auto 0rem auto;
+  font-family: "Sacramento", cursive;
+}
+h2 {
+  color: #66bfbf;
+  font-family: "Roboto", serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999e;
+  font-family: "Sacramento", cursive;
+}
+
+a {
+  color: #11999e;
+}
+
+.subtitle {
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container {
+  margin: 100px 0;
+}
+.bottom-container {
+}
+
+.mountain-size {
+  height: 400px;
+  width: 400px;
+  border-radius: 0;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.html {
+  width: 25%;
+  border-radius: 0;
+  float: left;
+  margin-left: 30px;
+}
+.css {
+  width: 25%;
+  border-radius: 0;
+  float: right;
+  margin-right: 30px;
+}
+
+.react {
+  width: 25%;
+  float: left;
+  margin-left: 30px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+  height: 300px;
+  width: 250px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+  height: 300px;
+  width: 250px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
